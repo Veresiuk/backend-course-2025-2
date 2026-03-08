@@ -1,1 +1,1 @@
-{"message":"Помилка ідентифікатора.","httpStatus":"404 NOT_FOUND","timestamp":"2026-03-08T12:03:17.1796422+02:00"}
+{"message":"Не допустимий параметр: month","httpStatus":"400 BAD_REQUEST","timestamp":"2026-03-08T12:33:57.0840137+02:00"}
